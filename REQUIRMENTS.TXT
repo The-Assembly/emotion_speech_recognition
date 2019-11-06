@@ -1,0 +1,6 @@
+librosa
+numpy
+sklearn
+os
+glob
+soundfile
